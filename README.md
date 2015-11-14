@@ -1,0 +1,2 @@
+# Assets_management
+這是採用VBA做出的簡易資產管理系統
